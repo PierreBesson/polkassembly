@@ -32,3 +32,4 @@ metadata:
 spec:
   domains:
     - kusama.polkassembly.network
+    - kusama.polkassembly.io
